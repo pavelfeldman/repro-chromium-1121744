@@ -1,0 +1,15 @@
+{
+  "name": "repro-chromium-1121744",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "run": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.3.0-next.1598386609368"
+  }
+}
